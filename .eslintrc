@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "parser": "babel-eslint",
+  "plugins": [
+    "html",
+    "vue"
+  ],
+  "rules": {
+    "no-new": "off",
+    "semi": ["error", "always"]
+  }
+}
